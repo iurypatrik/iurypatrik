@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @iurypatrik
-- 👀 I’m interested  em Desenvolver novos projetos tecnologicos
-- 🌱 I’m currently learning  Python
+- 👋 Olá, me chamo @iurypatrik
+- 👀 Me interesso em Desenvolver novos projetos tecnologicos
+- 🌱 Atualmente programo em Python e Java.
